@@ -1,0 +1,48 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> 
+    <dict> 
+        <key>items</key> 
+        <array> 
+            <dict> 
+                <key>assets</key> 
+                <array> 
+                    <dict> 
+                        <key>kind</key> 
+                        <string>software-package</string> 
+                        <key>url</key> 
+                        <string>http://oss.pgyer.com/87118980d8f022855f3ab36490397c95.ipa?auth_key=1582620020-e79861d398ea5c349a8ed875c081f75c-0-01bce4c5fe9cb0203c22c4d20352beda&amp;response-content-disposition=attachment%3B+filename%3DMentalityForGeneralUser%25285%2529.ipa</string> 
+                    </dict> 
+                    <dict> 
+                        <key>kind</key> 
+                        <string>full-size-image</string> 
+                        <key>needs-shine</key> 
+                        <false /> 
+                        <key>url</key> 
+                        <string>https://static.pgyer.com/image/view/app_icons/0f224b00d011c1306f7600ecedefbc22</string> 
+                    </dict> 
+                    <dict> 
+                        <key>kind</key> 
+                        <string>display-image</string> 
+                        <key>needs-shine</key> 
+                        <false /> 
+                        <key>url</key> 
+                        <string>https://static.pgyer.com/image/view/app_icons/0f224b00d011c1306f7600ecedefbc22</string> 
+                    </dict> 
+                </array> 
+                <key>metadata</key> 
+                <dict> 
+                    <key>bundle-identifier</key> 
+                    <string>com.51Vision.MentalityForGeneralUserqyh</string> 
+                    <key>bundle-version</key> 
+                    <string>1.0.5</string> 
+                    <key>kind</key> 
+                    <string>software</string> 
+                    <key>subtitle</key> 
+                    <string>心视联-测试</string> 
+                    <key>title</key> 
+                    <string>心视联-测试</string> 
+                </dict> 
+            </dict> 
+        </array> 
+    </dict> 
+</plist>
